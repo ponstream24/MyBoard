@@ -1,0 +1,20 @@
+# SQLiteデータベースファイル
+/db/database.db
+/db/database.db.org
+
+# 環境設定ファイル
+.env
+
+# キャッシュ・ログファイル
+*.log
+*.cache
+
+# OSやエディタによって生成されるファイル
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE関連ファイル
+.idea/
+.vscode/
